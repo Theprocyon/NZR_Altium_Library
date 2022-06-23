@@ -63,7 +63,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QYTUGAVK
 
 [Document2]
 DocumentPath=Sources\Keyboard Switches\KeyboardSwitches.SchLib
@@ -80,7 +80,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CJRQXWGT
 
 [Document3]
 DocumentPath=Sources\MCU\MCU.PcbLib
@@ -267,7 +267,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OJBIESEA
 
 [Document14]
 DocumentPath=Sources\Passives\Crystals.PCBLIB
@@ -352,7 +352,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AQKCRYDB
 
 [Document19]
 DocumentPath=Sources\Diodes\TVS.SchLib
